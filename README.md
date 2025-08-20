@@ -1,6 +1,6 @@
 # RevisaoPoo
 
-#Primeiro exerciício de reisão da aula de Poo questões 1 e 2
+#Primeiro exerciício de revisão da aula de Poo questões 1 e 2
 
 1) Elabore um sistema que mostre o seguinte menu na tela e realize suas ações:
 - 1 - Dividir dois números.

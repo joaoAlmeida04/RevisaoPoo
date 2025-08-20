@@ -1,0 +1,14 @@
+C:\Users\joaoa\source\repos\DemoAula1\DemoAula1\bin\Debug\net8.0\DemoAula1.exe
+C:\Users\joaoa\source\repos\DemoAula1\DemoAula1\bin\Debug\net8.0\DemoAula1.deps.json
+C:\Users\joaoa\source\repos\DemoAula1\DemoAula1\bin\Debug\net8.0\DemoAula1.runtimeconfig.json
+C:\Users\joaoa\source\repos\DemoAula1\DemoAula1\bin\Debug\net8.0\DemoAula1.dll
+C:\Users\joaoa\source\repos\DemoAula1\DemoAula1\bin\Debug\net8.0\DemoAula1.pdb
+C:\Users\joaoa\source\repos\DemoAula1\DemoAula1\obj\Debug\net8.0\DemoAula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoa\source\repos\DemoAula1\DemoAula1\obj\Debug\net8.0\DemoAula1.AssemblyInfoInputs.cache
+C:\Users\joaoa\source\repos\DemoAula1\DemoAula1\obj\Debug\net8.0\DemoAula1.AssemblyInfo.cs
+C:\Users\joaoa\source\repos\DemoAula1\DemoAula1\obj\Debug\net8.0\DemoAula1.csproj.CoreCompileInputs.cache
+C:\Users\joaoa\source\repos\DemoAula1\DemoAula1\obj\Debug\net8.0\DemoAula1.dll
+C:\Users\joaoa\source\repos\DemoAula1\DemoAula1\obj\Debug\net8.0\refint\DemoAula1.dll
+C:\Users\joaoa\source\repos\DemoAula1\DemoAula1\obj\Debug\net8.0\DemoAula1.pdb
+C:\Users\joaoa\source\repos\DemoAula1\DemoAula1\obj\Debug\net8.0\DemoAula1.genruntimeconfig.cache
+C:\Users\joaoa\source\repos\DemoAula1\DemoAula1\obj\Debug\net8.0\ref\DemoAula1.dll

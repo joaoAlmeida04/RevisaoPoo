@@ -1,0 +1,14 @@
+C:\Users\joaoa\source\repos\exercicoRevisao01\exercicoRevisao01\bin\Debug\net8.0\exercicoRevisao01.exe
+C:\Users\joaoa\source\repos\exercicoRevisao01\exercicoRevisao01\bin\Debug\net8.0\exercicoRevisao01.deps.json
+C:\Users\joaoa\source\repos\exercicoRevisao01\exercicoRevisao01\bin\Debug\net8.0\exercicoRevisao01.runtimeconfig.json
+C:\Users\joaoa\source\repos\exercicoRevisao01\exercicoRevisao01\bin\Debug\net8.0\exercicoRevisao01.dll
+C:\Users\joaoa\source\repos\exercicoRevisao01\exercicoRevisao01\bin\Debug\net8.0\exercicoRevisao01.pdb
+C:\Users\joaoa\source\repos\exercicoRevisao01\exercicoRevisao01\obj\Debug\net8.0\exercicoRevisao01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoa\source\repos\exercicoRevisao01\exercicoRevisao01\obj\Debug\net8.0\exercicoRevisao01.AssemblyInfoInputs.cache
+C:\Users\joaoa\source\repos\exercicoRevisao01\exercicoRevisao01\obj\Debug\net8.0\exercicoRevisao01.AssemblyInfo.cs
+C:\Users\joaoa\source\repos\exercicoRevisao01\exercicoRevisao01\obj\Debug\net8.0\exercicoRevisao01.csproj.CoreCompileInputs.cache
+C:\Users\joaoa\source\repos\exercicoRevisao01\exercicoRevisao01\obj\Debug\net8.0\exercicoRevisao01.dll
+C:\Users\joaoa\source\repos\exercicoRevisao01\exercicoRevisao01\obj\Debug\net8.0\refint\exercicoRevisao01.dll
+C:\Users\joaoa\source\repos\exercicoRevisao01\exercicoRevisao01\obj\Debug\net8.0\exercicoRevisao01.pdb
+C:\Users\joaoa\source\repos\exercicoRevisao01\exercicoRevisao01\obj\Debug\net8.0\exercicoRevisao01.genruntimeconfig.cache
+C:\Users\joaoa\source\repos\exercicoRevisao01\exercicoRevisao01\obj\Debug\net8.0\ref\exercicoRevisao01.dll

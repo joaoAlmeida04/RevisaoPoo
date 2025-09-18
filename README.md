@@ -14,3 +14,13 @@
   
 2) Escreva um programa que leia do usuário largura e altura e imprima um retângulo na tela, incluindo um
 deslocamento definido pelo usuário. Por exemplo, retângulo de largura 12, altura 5 e deslocamento 10:
+
+
+3) Um professor avalia seus alunos através dos seguintes critérios:
+
+a) Quatro notas de exercícios de 0 a 10, com peso de 20% na nota final.
+b) Duas notas de prova de 0 a 100, com peso de 60% na nota final.
+c) Um trabalho prático de 20 pontos.
+
+Elabore um programa que lê as notas de um aluno, calcula e mostra na tela sua nota final (em 100 pontos),
+formatada com duas casas decimais e devidamente ponderada pelos pesos.
